@@ -1,0 +1,35 @@
+body{
+    box-sizing: border-box;
+}
+
+#introduction img{
+    border-radius: 60%;
+}
+
+#introduction, #projects, #contact {
+    background-color: #C1CFC0;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #11324D;
+}
+
+hr{
+    color:whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
